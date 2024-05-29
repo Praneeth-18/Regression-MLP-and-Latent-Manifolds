@@ -1,5 +1,7 @@
 # Regression-MLP-and-Latent-Manifolds
 
+## Regression and Latent variables
+
 ### Buisness Objective:
 
 We need to update uber's fare prediction model, to account for inflation.
@@ -8,7 +10,7 @@ Assumption: We have dataset which includes data from 2009 to 2015 , and we synth
 
 Ourprocess: We have existing fare for trip, for each trip we will increase the fair price by 2.5% per year, this is what we expect the current rides to cost.
 
-# Latent Classification Recommendation
+## Latent Classification Recommendation
 
 ### Business Narration:
 
